@@ -17,5 +17,5 @@ void reverse()
         k--;
     }
     printf("The reverse string is %s\n", rev);
-    getch();
+    ;
 }
