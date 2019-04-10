@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+void reverse()
 {
     int i, j, k;
     char str[100];
