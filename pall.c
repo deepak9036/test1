@@ -1,5 +1,5 @@
 #include <stdio.h>
-int pallindrom()
+int palindrome()
 {
     int n, reversedInteger = 0, remainder, originalInteger;
 

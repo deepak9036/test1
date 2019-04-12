@@ -1,5 +1,5 @@
 #include<stdio.h>
-void rever()
+void reverse()
 {
     int i, j, k;
     char str[100];
@@ -17,5 +17,5 @@ void rever()
         k--;
     }
     printf("The reverse string is %s\n", rev);
-  
+return 0;
 }

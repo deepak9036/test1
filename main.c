@@ -1,9 +1,8 @@
 #include <stdio.h>
-main()
-{
+main() {
 biggest();
-facto();
-rever();
-pallindrom();
+fact();
+reverse();
+palindrome();
 }
 
