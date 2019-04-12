@@ -6,7 +6,7 @@ big3.o:big3.c
 	gcc -c big3.c
 fact.o:fact.c
 	gcc -c fact.c
-revstrng.o:reverse1.c
+reverse1.o:reverse1.c
 	gcc -c reverse1.c
 pall.o:pall.c
 	gcc -c pall.c
